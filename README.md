@@ -28,8 +28,6 @@ Welcome to the Memory Game! This classic game tests your memory and cognitive sk
 
 
 
-
-
 ## Scoring 🔢
 
 Your performance in the game is measured by the following metrics:
