@@ -12,8 +12,6 @@ Welcome to the Memory Game! This classic game tests your memory and cognitive sk
 - A move counter to keep you on your toes.
 - A win screen to celebrate your victories.
 
-
-
 ## How to Play 🪜
 1. To start the game, simply open the HTML file in your web browser.
 2. You'll be presented with a grid of face-down cards.
