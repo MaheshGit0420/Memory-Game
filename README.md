@@ -44,6 +44,13 @@ Your performance in the game is measured by the following metrics:
 2. Open the index.html file in Visual Studio and run the file.
 3. Game Link: https://maheshgit0420.github.io/Memory-Game/, you can also access the game through this link.
 
+
+## Tech Stack
+
+**HTML/CSS**: For structuring and styling the game interface.
+
+**JavaScript**: To make the webpage dynamic and interactive. 
+
 ## Reflection ✍️
 
 ### Introduction
@@ -99,6 +106,11 @@ It was a satisfying learning experience to create a memory game, and it taught 
 [DURGA PRADEEP CHEEPURUPALLI](https://github.com/pradeepch2107) C20025424
 
 [BHARATH BARMA](https://github.com/bharathbarma94) C11013013
+
+## References
+
+[1] https://github.com/flowforfrank/memory-game
+
 ## 🔗 Links
 💭[Play Game Here](https://maheshgit0420.github.io/Memory-Game/)
 
