@@ -94,11 +94,11 @@ It was a satisfying learning experience to create a memory game, and it taught 
 
 
 ## Contributors 🤝🏼
-[Mahesh Babu Guduru](https://github.com/MaheshGit0420/)
+[MAHESH BABU GUDURU C10789817](https://github.com/MaheshGit0420/)
 
-[Pradeep](https://github.com/pradeepch2107)
+[DURGA PRADEEP CHEEPURUPALLI C20025424](https://github.com/pradeepch2107)
 
-[Bharath Barma](https://github.com/bharathbarma94)
+[BHARATH BARMA C11013013](https://github.com/bharathbarma94)
 ## 🔗 Links
 💭[Play Game Here](https://maheshgit0420.github.io/Memory-Game/)
 
