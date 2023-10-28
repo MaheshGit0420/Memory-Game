@@ -1,5 +1,5 @@
 
-# Memory Game 🧠
+# Memory Game 💭
 
 Welcome to the Memory Game! This classic game tests your memory and cognitive skills by challenging you to match pairs of cards. The goal is to find all the matching pairs by flipping cards two at a time.
 
@@ -12,6 +12,8 @@ Welcome to the Memory Game! This classic game tests your memory and cognitive sk
 - A move counter to keep you on your toes.
 - A win screen to celebrate your victories.
 
+
+
 ## How to Play 🪜
 1. To start the game, simply open the HTML file in your web browser.
 2. You'll be presented with a grid of face-down cards.
@@ -21,6 +23,8 @@ Welcome to the Memory Game! This classic game tests your memory and cognitive sk
 6. If they do not match, they will flip back face down.
 7. Continue selecting pairs of cards until you've matched all of them.
 8. Try to complete the game with the fewest moves and in the fastest time.
+
+
 
 
 
@@ -87,4 +91,14 @@ It's critical to establish reasonable deadlines and allow for unforeseen difficu
 
 It was a satisfying learning experience to create a memory game, and it taught us the value of simplicity in game design, frequent testing, and user experience. Along the journey, we encountered many obstacles, but we also achieved great success in terms of the user interface, increasing difficulty. We really hope that players will find our game to be entertaining, demanding, and an excellent means of honing their memory and focus. Our goal is to further investigate game development, emphasizing user-centered design and straightforward, entertaining gameplay, as this project has inspired us to do.
 
+
+
+## Contributors 🤝🏼
+[Mahesh Babu Guduru](https://github.com/MaheshGit0420/)
+
+[Pradeep](https://github.com/pradeepch2107)
+
+[Bharath Barma](https://github.com/bharathbarma94)
+## 🔗 Links
+💭[Play Game Here](https://maheshgit0420.github.io/Memory-Game/)
 
